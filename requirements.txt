@@ -8,3 +8,4 @@ pypdf
 python-dotenv
 tiktoken
 python-multipart
+langchain-text-splitters
