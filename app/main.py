@@ -16,7 +16,7 @@ try:
         smart_answer,
     )
 except ModuleNotFoundError:
-    from rag_service import (
+    from app.rag_service import (
         PDF_FOLDER,
         create_vector_db,
         list_uploaded_pdfs,
